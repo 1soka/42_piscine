@@ -1,52 +1,89 @@
 <div align="center">
 
-# 42 Piscine
+# 🏊 42 Piscine — Angoulême
 
-**Learn. Adapt. Improve.**
-
-My journey through the **42 Piscine**: C programming, Unix, algorithms, and a lot of problem-solving.
-
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white) ![42](https://img.shields.io/badge/School-42-00babc?style=flat-square) ![Unix](https://img.shields.io/badge/Unix-Shell-30363d?style=flat-square) ![Algorithms](https://img.shields.io/badge/Focus-Algorithms-30363d?style=flat-square)
+<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Angoulême">
+<img src="https://img.shields.io/badge/Piscine-Passed-5cb85c?style=for-the-badge" alt="Piscine passed">
+<img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell">
+<img src="https://img.shields.io/badge/Norm-Norminette-00babc?style=for-the-badge" alt="Norminette">
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
 
 </div>
 
-## 🏆 Exam Results
+---
 
-Four exams, four milestones — each one an opportunity to think faster and improve.
+## 📖 About
 
-| Exam | Result | Focus |
-|:---:|:---:|---|
-| **Exam 00** | ![Success 90/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-90%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | C basics, Unix and problem-solving. |
-| **Exam 01** | ![Success 80/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-80%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Pointers, strings, and fundamental algorithms. |
-| **Exam 02** | ![Success 100/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-100%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Advanced C exercises and algorithmic thinking. |
-| **Exam 03** | ![Success 72/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-72%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Putting everything together under pressure. |
+This repository gathers my whole **42 Angoulême Piscine** journey: an intensive four-week selection bootcamp where you learn C and Unix from scratch, with no teachers, no lectures, only peer-learning, peer-evaluation and a strict coding norm.
 
-## 📚 Daily Results
-
-A day-by-day record of the Piscine, from the first C exercises to the final challenges.
-
-| Day | Result | What I learned |
-|:---:|:---:|---|
-| **Day 00** | ![Success 50/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-50%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | C fundamentals and first programs. |
-| **Day 01** | ![Success 55/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-55%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Conditions, loops, and logical thinking. |
-| **Day 02** | ![Success 50/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-50%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Strings and character manipulation. |
-| **Day 03** | ![Success 100/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-100%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Numbers, algorithms, and problem-solving. |
-| **Day 04** | ![Success 65/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-65%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Recursion and mathematical reasoning. |
-| **Day 05** | ![Success 50/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-50%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Pointers and string operations. |
-| **Day 06** | ![Success 50/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-50%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Arguments and program execution. |
-| **Day 07** | ![Success 80/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-80%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Memory and string processing. |
-| **Day 08** | ![Success 100/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-100%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Headers, structures, and reusable code. |
-| **Day 09** | ![Success 52/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-52%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Revisiting key concepts and strengthening fundamentals. |
-| **Day 10** | ![Success 100/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-100%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Files and more advanced C practice. |
-| **Day 11** | ![Success 100/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-100%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Linked lists and data structures. |
-| **Day 12** | ![Success 50/100](https://img.shields.io/badge/%E2%9C%93%20SUCCESS-50%2F100-58b957?style=for-the-badge&labelColor=58b957&color=58b957) | Final challenges combining everything learned. |
-
-## 💚 Final Words
-
-A huge **thank you** to everyone who made this Piscine unforgettable — the peers who helped, challenged, and motivated me along the way. I genuinely loved every bit of it, even the tough parts. I’m leaving more motivated than ever, ready for the next challenge!
-
-**The exam was my Hunter Exam arc.** 🕷️⚡ Like Gon and Killua, I’m only getting started. *The adventure continues!*
+Every exercise here was written by hand, checked by **Moulinette** (42's automated grader), reviewed by fellow pisciners and kept compliant with the **Norminette**. I passed the Piscine and was admitted to the 42 cursus. 🎉
 
 ---
 
-<div align="center"><sub>Made with persistence, curiosity, and a lot of C. 🐳</sub></div>
+## 📝 Exams
+
+<div align="center">
+<table>
+  <tr>
+    <th>Exam 00</th>
+    <th>Exam 01</th>
+    <th>Exam 02</th>
+    <th>Final Exam</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/grades/grade_90.svg" width="130" alt="90/100"></td>
+    <td align="center"><img src="assets/grades/grade_80.svg" width="130" alt="80/100"></td>
+    <td align="center"><img src="assets/grades/grade_100.svg" width="130" alt="100/100"></td>
+    <td align="center"><img src="assets/grades/grade_72.svg" width="130" alt="72/100"></td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📅 Days
+
+| Day | Topic | Grade |
+|:---:|---|:---:|
+| [**Shell00**](S00) | Unix basics: files, permissions, archives, `ls`, `find` and first steps with Git. | <img src="assets/grades/grade_50.svg" width="110" alt="50/100"> |
+| [**Shell01**](S01) | Shell scripting with environment variables, pipes, `sed`/`tr` and base conversion. | <img src="assets/grades/grade_55.svg" width="110" alt="55/100"> |
+| [**C00**](C00) | First C programs: `write`, characters, digits and printing combinations. | <img src="assets/grades/grade_50.svg" width="110" alt="50/100"> |
+| [**C01**](C01) | Pointers: addresses, swapping values, division/modulo and integer arrays. | <img src="assets/grades/grade_100.svg" width="110" alt="100/100"> |
+| [**C02**](C02) | String manipulation: copy, character checks, case conversion and capitalization. | <img src="assets/grades/grade_65.svg" width="110" alt="65/100"> |
+| [**C03**](C03) | String comparison, concatenation and substring search (`strcmp`, `strcat`, `strstr`). | <img src="assets/grades/grade_50.svg" width="110" alt="50/100"> |
+| [**C04**](C04) | Number ↔ string conversion: `putnbr`, `atoi` and custom bases. | <img src="assets/grades/grade_50.svg" width="110" alt="50/100"> |
+| [**C05**](C05) | Recursion and math: factorial, power, Fibonacci, square root, primes and the ten queens. | <img src="assets/grades/grade_80.svg" width="110" alt="80/100"> |
+| [**C06**](C06) | Command-line arguments with `argc` / `argv`: printing, reversing and sorting them. | <img src="assets/grades/grade_100.svg" width="110" alt="100/100"> |
+| [**C07**](C07) | Dynamic memory with `malloc`: `strdup`, ranges, `strjoin`, base conversion and `split`. | <img src="assets/grades/grade_52.svg" width="110" alt="52/100"> |
+| [**C08**](C08) | Header files, macros and structures. | <img src="assets/grades/grade_100.svg" width="110" alt="100/100"> |
+| [**C09**](C09) | Building a static library (`libft.a`) and writing a Makefile. | <img src="assets/grades/grade_100.svg" width="110" alt="100/100"> |
+| [**C11**](C11) | Function pointers: `foreach`, `map`, `count_if`, sort checks and `do-op`. | <img src="assets/grades/grade_50.svg" width="110" alt="50/100"> |
+
+> 🧩 Also in this repo: [**BSQ**](BSQ), the final Piscine project (find the biggest square on a map).
+
+---
+
+## 🗂️ Repository structure
+
+```
+42_piscine/
+├── S00/  S01/        # Shell days
+├── C00/ … C09/  C11/ # C days
+├── BSQ/              # Final project
+└── assets/grades/    # Grade badges used in this README
+```
+
+---
+
+## 🏆 Final words
+
+A huge thank you to the 42 Angoulême staff and to every pisciner I shared the cluster with. The peer evaluations, the late-night debugging sessions and the Friday exam pressure made this month the most intense and the most fun I've ever had coding. I came out of it **boosted**, and I loved every second of it. 💚
+
+Honestly, the whole Piscine felt like the **Hunter Exam** 🎣⚡: a month of trials, candidates dropping out round after round, Moulinette judging you with zero mercy... and at the end, the license. Gon and Killua made it through theirs, I made it through mine. See you in the common core! 🚀
+
+<div align="center">
+
+**Made with ☕, 💚 and a lot of segfaults by [1soka](https://github.com/1soka)**
+
+</div>
