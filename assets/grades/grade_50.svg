@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="100" viewBox="0 0 150 100" role="img" aria-label="Score 50 out of 100">
-  <rect width="150" height="100" rx="9" fill="#171425"/>
-  <rect x="1.5" y="1.5" width="147" height="97" rx="8" fill="none" stroke="#8069b3" stroke-width="2"/>
-  <rect x="9" y="9" width="132" height="82" rx="5" fill="#212037"/>
-  <path d="M19 26 l6 6 11 -13" fill="none" stroke="#79e2b1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="75" y="65" fill="#79e2b1" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="43" text-anchor="middle">50</text>
-  <text x="75" y="82" fill="#b9add2" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle">/ 100</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="190" viewBox="0 0 240 190" role="img" aria-label="success 50/100">
+  <title>success 50/100</title>
+  <rect width="240" height="190" rx="3" fill="#5cb85c"/>
+  <path d="M66 50 L76 61 L94 39" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="104" y="62" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="23" letter-spacing="0.5">success</text>
+  <text x="60.1" y="148" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="76" font-weight="300">50</text>
+  <text x="148.7" y="148" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="300">/100</text>
 </svg>

@@ -2,9 +2,9 @@
 
 # 🏊 42 Piscine — Angoulême
 
-<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-211b32?style=for-the-badge&logo=42&logoColor=white" alt="42 Angoulême"> <img src="https://img.shields.io/badge/Piscine-Passed-317d68?style=for-the-badge" alt="Piscine passed"> <img src="https://img.shields.io/badge/Language-C-65558c?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-061047?style=for-the-badge&labelColor=002CD1&logo=42&logoColor=C5C8FC" alt="42 Angoulême"> <img src="https://img.shields.io/badge/Piscine-Passed-FA0FB5?style=for-the-badge&labelColor=061047" alt="Piscine passed"> <img src="https://img.shields.io/badge/Language-C-002CD1?style=for-the-badge&logo=c&logoColor=C5C8FC" alt="C">
 
-<img src="https://img.shields.io/badge/Shell-Bash-65558c?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"> <img src="https://img.shields.io/badge/Norm-Norminette-247e92?style=for-the-badge" alt="Norminette"> <img src="https://img.shields.io/badge/License-MIT-65558c?style=for-the-badge" alt="MIT License">
+<img src="https://img.shields.io/badge/Shell-Bash-002CD1?style=for-the-badge&logo=gnubash&logoColor=C5C8FC" alt="Shell"> <img src="https://img.shields.io/badge/Norm-Norminette-061047?style=for-the-badge&labelColor=002CD1" alt="Norminette"> <img src="https://img.shields.io/badge/License-MIT-002CD1?style=for-the-badge" alt="MIT License">
 
 </div>
 
