@@ -1,10 +1,11 @@
+<p align="center"><img src="assets/banner.gif" width="100%" alt="Piscine banner"></p>
 <div align="center">
 
-# 🏊 42 Piscine — Angoulême
+# 😈 42 Piscine — Angoulême
 
 <img src="https://img.shields.io/badge/42-Angoul%C3%AAme-FA0FB5?style=for-the-badge&labelColor=061047&logo=42&logoColor=C5C8FC" alt="42 Angoulême"> <img src="https://img.shields.io/badge/Piscine-Passed-002CD1?style=for-the-badge&labelColor=061047" alt="Piscine passed"> <img src="https://img.shields.io/badge/Language-C-061047?style=for-the-badge&labelColor=FA0FB5&logo=c&logoColor=C5C8FC" alt="C">
 
-<img src="https://img.shields.io/badge/Shell-Bash-FA0FB5?style=for-the-badge&labelColor=061047&logo=gnubash&logoColor=C5C8FC" alt="Shell"> <img src="https://img.shields.io/badge/Norm-Norminette-002CD1?style=for-the-badge&labelColor=061047" alt="Norminette"> <img src="https://img.shields.io/badge/License-MIT-FA0FB5?style=for-the-badge&labelColor=061047" alt="MIT License">
+<img src="https://img.shields.io/badge/Shell-Bash-FA0FB5?style=for-the-badge&labelColor=061047&logo=gnubash&logoColor=C5C8FC" alt="Shell"> <img src="https://img.shields.io/badge/Norm-Norminette-002CD1?style=for-the-badge&labelColor=061047" alt="Norminette">
 </div>
 
 ## 📖 About
@@ -64,12 +65,12 @@ Every exercise here was written by hand, checked by **Moulinette** (42's automat
 
 ## 🏆 Final words
 
-A huge thank you to the 42 Angoulême staff and to every pisciner I shared the cluster with. The peer evaluations, the late-night debugging sessions and the Friday exam pressure made this month the most intense and the most fun I've ever had coding. I came out of it **boosted**, and I loved every second of it. 💚
+A huge thank you to the 42 Angoulême staff and to every pisciner I shared the cluster with. The peer evaluations, the late-night debugging sessions and the Friday exam pressure made this month the most intense and the most fun I've ever had coding. I came out of it **boosted**, and I loved every second of it. 💜
 
 Honestly, the whole Piscine felt like the **Hunter Exam** 🎣⚡: a month of trials, candidates dropping out round after round, Moulinette judging you with zero mercy... and at the end, the license. Gon and Killua made it through theirs, I made it through mine. See you in the common core! 🚀
 
 <div align="center">
 
-**Made with ☕, 💚 and a lot of segfaults by [1soka](https://github.com/1soka)**
+**Made with ☕, 💜 and a lot of segfaults by [1soka](https://github.com/1soka)**
 
 </div>
